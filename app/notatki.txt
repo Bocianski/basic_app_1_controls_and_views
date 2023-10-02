@@ -1,0 +1,3 @@
+1. Przy każdym otwarciu i zamknięciu aplikacji wywoływały się wszystkie metody
+2. Przy obruceniu ekranu apka tak naprawdę się zamykała i odpalała na nowo wracajac do pierwszego pytania
+3. Nie mogę znaleźć pliku AndroidManifest.xml

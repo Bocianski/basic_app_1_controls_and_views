@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zadanie1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Nastepne</string>
+    <string name="q_activity">Activity jest jednym z kompnentów aplikacji Android</string>
+    <string name="q_version">Android 8 jest najnowsza wersją</string>
+    <string name="q_age">Czy musisz być dorosły by programować</string>
+    <string name="q_meaning">Czy życie ma sens</string>
+    <string name="q_future">Czy czeka nas świetlana przyszłość</string>
+    <string name="correctAnswer">brawo</string>
+    <string name="falseAnswer">chlip chlip</string>
+</resources>
